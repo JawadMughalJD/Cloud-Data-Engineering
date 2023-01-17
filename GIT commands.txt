@@ -1,0 +1,5 @@
+git init 
+git add .
+git commit -m "Assignment 01"
+git remote add origin https://github.com/JawadMughalJD/git_practice.git
+git push -u origin master
